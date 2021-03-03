@@ -1,0 +1,12 @@
+logging.level.org.springframework = debug
+
+//Controller
+@CrossOrigin(origins="http://localhost:4200")
+
+//maven
+spring-boot-starter-security
+
+//Here is a debugging guide to help you Authentication
+https://github.com/in28minutes/in28minutes-initiatives/blob/master/The-in28Minutes-TroubleshootingGuide-And-FAQ/fullstack.md#basic-authentication-problems
+
+//CSRF
